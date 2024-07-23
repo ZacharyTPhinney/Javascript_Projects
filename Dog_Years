@@ -1,0 +1,12 @@
+var myAge = 30; //this code creates a variable named myAge
+var earlyYears = 2;
+earlyYears = earlyYears * 10.5;
+laterYears = myAge - 2 // this line of code is accounting for the earlyYears thar were defined earlier
+laterYears = laterYears * 4;
+
+console.log(laterYears)
+myAgeInDogYears = earlyYears + laterYears;
+myName = "Zachary";
+myName.toLowerCase()
+console.log(`My name is ${myName}. I am ${myAge} years old in human years, which is ${myAgeInDogYears} old in dog years`)
+
