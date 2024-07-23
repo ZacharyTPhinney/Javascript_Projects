@@ -1,0 +1,8 @@
+//this code creates a variable named kelvin
+var kelvin = 0;
+celsius = kelvin -273;
+//this code calculates the variable 
+fahrenheit =  celsius * (9/5) + 32
+// the math floor method rounds down the fahrenheit variable into an integer number
+fahrenheit = Math.floor(fahrenheit)
+console.log(`The temperature is ${fahrenheit } degrees Fahrenheit`)
